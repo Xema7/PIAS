@@ -1,6 +1,6 @@
-# 🧠 UPIAS — User Purchase Intent Analysis System
+# 🧠 PIAS — User Purchase Intent Analysis System
 
-User Purchase Intent Analysis System is a **full-stack behavioral analytics system** that captures real user activity via a browser extension and transforms it into **AI-driven purchase intent insights**.
+Purchase Intent Analysis System is a **full-stack behavioral analytics system** that captures real user activity via a browser extension and transforms it into **AI-driven purchase intent insights**.
 
 It combines:
 
@@ -12,7 +12,7 @@ It combines:
 
 ## 🚀 What This Project Actually Does
 
-User Purchase Intent Analysis System is not just a logger.
+Purchase Intent Analysis System is not just a logger.
 
 It is a **behavior → intent → explanation pipeline**:
 
@@ -197,8 +197,8 @@ Based on:
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/your-username/user-action-logger.git
-cd user-action-logger
+git clone https://github.com/Xema7/PIAS
+cd PIAS
 ```
 
 ---
@@ -286,10 +286,10 @@ UPIAS/
 │   ├── server.py
 │   ├── extractor.py
 │   ├── requirements.txt
-│
-├── ui/
-│   ├── index.html
-│   ├── styles.css
+│   ├── .env
+│   ├── ui/
+│       ├── index.html
+│       ├── styles.css
 │
 └── README.md
 ```
